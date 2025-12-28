@@ -1,3 +1,4 @@
+```text
 nikoru/ 🗂️
 ├─ about.txt 📄
 │  └─ scripting & game design 🎮 (game jams)
@@ -16,3 +17,4 @@ nikoru/ 🗂️
 │
 └─ status 🚧
    └─ building ⚡
+```
