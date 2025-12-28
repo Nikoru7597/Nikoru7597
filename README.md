@@ -1,7 +1,7 @@
 ```text
 nikoru/ 🗂️
-├─ about.txt 📄
-│  └─ scripting & game design 🎮 (game jams)
+├─ toja.txt 📄
+│  └─ scripting & game design 🎮 (game jams future master frfr)
 │
 ├─ skills/ 🛠️
 │  ├─ python 🐍
@@ -16,5 +16,5 @@ nikoru/ 🗂️
 │  └─ jazz_music 🎷
 │
 └─ status 🚧
-   └─ building ⚡
+   └─ szponting⚡
 ```
