@@ -1,7 +1,18 @@
-- 👋✌ Hello
-- YEET
-- 🗿 🗿
-<!---
-Nikoru7597/Nikoru7597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+nikoru/ 🗂️
+├─ about.txt 📄
+│  └─ scripting & game design 🎮 (game jams)
+│
+├─ skills/ 🛠️
+│  ├─ python 🐍
+│  ├─ html 🌐
+│  ├─ sql 🗄️
+│  └─ c++ ⚙️ (basic)
+│
+├─ focus/ 🎯
+│  └─ winning_gamejam 🏆
+│
+├─ interests/ 🎵
+│  └─ jazz_music 🎷
+│
+└─ status 🚧
+   └─ building ⚡
